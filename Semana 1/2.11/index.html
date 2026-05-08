@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link rel="stylesheet" href="../style.css">
+    </head>
+    <body>        
+        <nav class="flex justify-between p-4 items-center">
+            <div>
+                Ejercicios
+            </div>
+            <ul class="hidden md:flex gap-6 items-center">
+                <li><a href="..\index.html">Inicio</a></li>
+                <li><a href="..\2.10\index.html">2.10</a></li>
+                <li><a href="..\2.11\index.html">2.11</a></li>
+                <li><a href="..\2.12\index.html">2.12</a></li>
+                <li><a href="..\2.13\index.html">2.13</a></li>
+                <li><a href="..\2.14\index.html">2.14</a></li>
+                <li><a href="..\2.15\index.html">2.15</a></li>
+                <li><a href="..\2.16\index.html">2.16</a></li>
+                <li><a href="..\2.17\index.html">2.17</a></li>
+                <li><a href="..\2.18\index.html">2.18</a></li>
+                <li><a href="..\2.19\index.html">2.19</a></li>
+                <li><a href="..\2.20\index.html">2.20</a></li>
+            </ul>
+            <div class="block md:hidden text-3xl cursor-pointer">
+                ☰
+            </div>
+        </nav>
+        <label for="Kilowatts">Cantidad de Kilowatts usados:</label>
+        <input type="text" id="Kilowatts" name="Kilowatts"><br>
+        <label for="Precio">Ingresa el Precio por Kilowatt:</label>
+        <input type="text" id="Precio" name="Precio"><br>
+        <button onclick="precioFinal()">Enviar</button>
+        <p id="resultado"></p>
+        <script src="./scripts/functions.js" defer></script>
+    </body>
+</html>
