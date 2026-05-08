@@ -3,17 +3,17 @@
 ## 👤 Datos del Alumno
 | Campo | Información |
 |-------|-------------|
-| Nombre completo | [Luis Gael Carrasco Baca] |
-| Número de control | [24308051220613] |
-| Grupo | [G] |
-| Grado | [4] |
-| Escuela | [CBTis 122] |
-| Especialidad | [Programacion] |
+| Nombre completo | Luis Gael Carrasco Baca |
+| Número de control | 24308051220613 |
+| Grupo | G |
+| Grado | 4 |
+| Escuela | CBTis 122 |
+| Especialidad | Programacion |
 
 ## 📘 Información del Ejercicio
-- Título del ejercicio: [Problemas secuenciales]
+- Título del ejercicio: Problemas secuenciales
 - Descripción:  
-  [2.10 La CONAGUA requiere determinar el pago que debe realizar una persona por el total de metros cúbicos que consume de agua. Realice una pagina web con css y js que permita determinar ese pago.
+2.10 La CONAGUA requiere determinar el pago que debe realizar una persona por el total de metros cúbicos que consume de agua. Realice una pagina web con css y js que permita determinar ese pago.
  2.11 La compañía de luz y sombras (CLS) requiere determinar el pago que debe realizar una persona por el consumo de energía eléctrica, la cual se mide en kilowatts (KW). Realice una pagina web con css y js que de solución que permita determinar ese pago.
  2.12 Realice una pagina web con css y js que de solución para determinar cuánto pagará finalmente una persona por un artículo equis, considerando que tiene un descuento de 20%, y debe pagar 15% de IVA (debe mostrar el precio con descuento y el precio final).
  2.13 Realice una pagina web con css y js que de solución para determinar cuánto dinero ahorra una persona en un año si considera que cada semana ahorra 15% de su sueldo (considere cuatro semanas por mes y que no cambia el sueldo).
@@ -32,5 +32,5 @@
 2.6 Se requiere determinar la hipotenusa de un triángulo rectángulo. ¿ Realice una página web con JS que representen el algoritmo para obtenerla? Recuerde que por Pitágoras se tiene que: C2 = A2 + B2.
  2.7 La compañía de autobuses “La curva loca” requiere determinar el costo que tendrá el boleto de un viaje sencillo, esto basado en los kilómetros por recorrer y en el costo por kilómetro. Realice una página web con JS que representen el algoritmo para tal fin.
 2.8 Se requiere determinar el tiempo que tarda una persona en llegar de una ciudad a otra en bicicleta, considerando que lleva una velocidad constante. Realice una página web con JS que representen el algoritmo para tal fin.
-2.9 Se requiere determinar el costo que tendrá realizar una llamada telefónica con base en el tiempo que dura la llamada y en el costo por minuto. Realice una página web con JS que representen el algoritmo para tal fin.]
+2.9 Se requiere determinar el costo que tendrá realizar una llamada telefónica con base en el tiempo que dura la llamada y en el costo por minuto. Realice una página web con JS que representen el algoritmo para tal fin.
 ## ❓ Preguntas y Dudas
